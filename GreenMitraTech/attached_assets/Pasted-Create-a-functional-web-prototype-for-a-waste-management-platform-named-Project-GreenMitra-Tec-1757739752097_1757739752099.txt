@@ -1,0 +1,75 @@
+Create a functional web prototype for a waste management platform named "Project GreenMitra".
+
+Tech Stack: Use HTML, CSS, JavaScript (optional: Bootstrap for styling).
+
+Key Features to Implement:
+
+Landing Page:
+
+Project GreenMitra logo and name.
+
+Brief tagline (e.g., "A Decentralized Waste Management Ecosystem").
+
+Buttons: Login / Sign Up (for Citizens, Green Champions, ULB Admin).
+
+Login/Sign Up Page:
+
+Dropdown to select user type: Citizen, Green Champion, ULB Admin.
+
+Form for Email/Phone and Password.
+
+For Sign Up: Name, Address/Ward Number, and user type.
+
+Citizen Dashboard (After Login):
+
+Welcome message with user's name.
+
+Green Points Balance displayed prominently.
+
+Quick Action Buttons:
+
+Start Training (links to a sample video/page)
+
+Report Illegal Dumping (opens a form to upload a photo & location)
+
+Track Collection Vehicle (shows a mock map with a moving truck icon)
+
+Redeem Points (shows a list of rewards like "₹100 off on electricity bill")
+
+Section: "Your Next Waste Collection Date: [Date]"
+
+Green Champion Dashboard (After Login):
+
+Assigned Zone: "Ward No: 15"
+
+Tasks: List of pending verification requests (e.g., "Verify Composting at House #123").
+
+Button: Verify Report (simulates approving a task and awarding points).
+
+Admin Dashboard (ULB Login):
+
+Statistics Overview: Total Users, Segregation Compliance Rate (e.g., 78%), Reports Resolved.
+
+Map View: Showing locations of reported illegal dumping with pins.
+
+List of Recent Reports with status (Pending, In Progress, Resolved).
+
+Navigation:
+
+A simple navbar at the top with links to Home, Dashboard, Logout.
+
+Styling Instructions:
+
+Use a green and blue color scheme.
+
+Make the UI clean, modern, and user-friendly.
+
+Use icons for buttons (e.g., trash icon for reporting, trophy icon for points).
+
+Interactivity:
+
+Use JavaScript to make the buttons functional (e.g., clicking "Report Dumping" shows an alert "Report Submitted! 10 Points Added.").
+
+Simulate the points system: reporting waste adds 10 points, which updates on the dashboard.
+
+Important: This is a prototype, so use placeholder data and mock functionality where needed.
